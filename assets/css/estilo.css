@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.card{
+    background-color: #1a1a1a;
+    color: aliceblue;
+    border: 1px solid #1a1a1a;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
